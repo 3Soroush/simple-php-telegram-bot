@@ -7,7 +7,6 @@ $conf = [
 	'only_trusted' => FALSE,
 	//Populate the array with the trusted Chat IDs
 	'trusted' => [ 
-		'779918878' 
+		'<chat_id>' 
 		],
 	];
-
